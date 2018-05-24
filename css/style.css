@@ -1,0 +1,29 @@
+
+body {
+    background-image: ;
+    background-repeat: repeat;
+    background-attachment: scroll;
+}
+
+header {
+    background:#ffffff;
+    border: #cccccc;
+    border-width: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 100%;
+
+}
+
+ul {
+    float: right;
+    padding: 20px;
+    list-style-type: initial 
+}
+
+li {
+    display: inline;
+}
+
+section {
+    
+}
