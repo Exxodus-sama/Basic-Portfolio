@@ -1,0 +1,48 @@
+body {
+    background-image: url(https://exxodus-sama.github.io/Basic-Portfolio/images/subtle_grunge.png);
+    background-repeat: repeat;
+    background-attachment: scroll;
+}
+
+header {
+    background:#ffffff;
+    border: #cccccc solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 100%;
+    height: 100px;
+    margin-bottom: 20px;
+
+}
+
+.myName {
+    text-align: center;
+    color: #ffffff;
+    width: 30%;
+    padding: 15px;
+    margin: 15px;
+    background: #4aaaa5;
+}
+
+ul {
+    float: right;
+    padding: 20px;
+    margin-top: 10px;
+    list-style-type: initial;
+}
+
+li {
+    display: inline;
+    color: grey;
+}
+
+
+
+
+
+footer {
+    padding: 20px;
+    margin-top: 70px;
+    color: #333;
+    background: #ccc;
+    text-align: center;
+  }
